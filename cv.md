@@ -26,3 +26,26 @@ for (let i = 0, j = 0; i < data.length; i++, j++ ) {
 }
 console.log(data);
 ```
+## Experience
+## Education
+* _2015-2019_
+    * __Belarusian State University, Minsk__
+
+        Faculty of Mechanics and Mathematics. Department of Algebra and Number Theory. Specialty: mathematician, teacher of mathematics and informatics.
+* _2019-2020_
+    * __Belarusian State University, Minsk__
+
+        Department of Pedagogy and Education Development, Belarusian State University. Master of pedagogical sciences
+* _2020-2021_
+    * __Udemy__
+
+        [WEB developer 2021](https://www.udemy.com/course/webdeveloper/)
+* _2021-2022_
+    * __Udemy__
+
+        [The Complete JavaScript + React Course - From Zero to Result](https://www.udemy.com/course/javascript_full/)
+## Languages
+* English - A2
+* Russian - Native
+* Belorussian - Native
+* Polish - Basic
