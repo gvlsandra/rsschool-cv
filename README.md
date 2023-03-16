@@ -1,1 +1,1 @@
-https://gvlsandra.github.io/rsschool-cv/cv
+https://gvlsandra.github.io/rsschool-cv/
